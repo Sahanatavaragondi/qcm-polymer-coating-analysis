@@ -1,2 +1,3 @@
 # QCM-coating-analysis
-Reusability analysis of polymer-coated QCM sensors using synthetic data
+Data analysis pipeline for evaluating polymer coating reusability on QCM sensors.
+Currently in development.
